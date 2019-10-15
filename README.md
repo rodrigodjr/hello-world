@@ -6,3 +6,4 @@ Outra alteração.
 asdfasdf asdfasdf 
 asdasfsdfads
 Mais outra.
+Mais uma no Git
